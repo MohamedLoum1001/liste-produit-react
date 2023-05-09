@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/liste-produit-react/static/css/main.808f778f.css",
+    "main.js": "/liste-produit-react/static/js/main.317e0303.js",
+    "index.html": "/liste-produit-react/index.html",
+    "main.808f778f.css.map": "/liste-produit-react/static/css/main.808f778f.css.map",
+    "main.317e0303.js.map": "/liste-produit-react/static/js/main.317e0303.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.808f778f.css",
+    "static/js/main.317e0303.js"
+  ]
+}
